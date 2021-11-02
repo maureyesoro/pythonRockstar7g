@@ -15,3 +15,5 @@ for i in range(1,100):
             #print(i, j, 'no primo')
     if primo:
         print('primo', i)
+
+#
